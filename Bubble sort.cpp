@@ -1,3 +1,4 @@
+/*here function sortA sort array in ascending order and sortD sort in decending order*/
 #include<iostream>
 using namespace std;
 class test{
